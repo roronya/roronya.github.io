@@ -1,0 +1,26 @@
+body {
+  margin: 0; /* reset user agent stylesheet */
+  max-width: 1024px;
+  margin: 0 16px 16px 16px;
+  font-family: "M PLUS 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #454545;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  text-indent: 1em;
+  background-color: #F9F9FB
+}
+
+h1 {
+  color: #142C4D
+}
+
+blockquote {
+  margin-inline-start: 10px;
+  margin-inline-end: 10px;
+  border-left: solid gray;
+  padding-left: 8px;
+  font-style: italic;
+}
